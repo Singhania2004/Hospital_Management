@@ -1,0 +1,175 @@
+{
+    "hospitals": [
+      {
+        "name": "AIIMS Delhi",
+        "latitude": 28.5677,
+        "longitude": 77.2125,
+        "address": "Sri Aurobindo Marg, Ansari Nagar, Delhi, 110029, India",
+        "helpline": "+91 11 2658 8500",
+        "picture": "./img/AIIMS_New_Delhi.png",
+        "website": "https://www.aiims.edu/"
+      },
+      {
+        "name": "Fortis Hospital, Shalimar Bagh",
+        "latitude": 28.7096,
+        "longitude": 77.1699,
+        "address": "A Block, Shalimar Bagh, Delhi, 110088, India",
+        "helpline": "+91 11 4702 6000",
+        "picture": "./img/Fortis.jpg",
+        "website": "https://www.fortishealthcare.com/location/fortis-hospital-shalimar-bagh-new-delhi"
+      },
+      {
+        "name": "Apollo Hospital",
+        "latitude": 28.5799,
+        "longitude": 77.3348,
+        "address": "E 2, Block E, Sector 26, Noida 201301",
+        "helpline": "+91 11 2692 5858",
+        "picture": "./img/Apollo.avif",
+        "website": "https://www.apollohospitals.com/noida/"
+      },
+      {
+        "name": "Sir Ganga Ram Hospital",
+        "latitude": 28.6385,
+        "longitude": 77.1896,
+        "address": "A1, Sarhadi Gandhi Marg, Rajinder Nagar, Delhi, 110060",
+        "helpline": "+91 11 2586 4567",
+        "picture": "./img/SGRH.jpg",
+        "website": "https://sgrh.com/"
+      },
+      {
+        "name": "BLK Super Speciality Hospital",
+        "latitude": 28.6435,
+        "longitude": 77.1796,
+        "address": "Pusa Road, Delhi, 110005, India",
+        "helpline": "+91 11 4155 4155",
+        "picture": "./img/MAXHEALTH.NS-9e293f80.png",
+        "website": "https://www.blkmaxhospital.com/"
+      },
+      {
+        "name": "Medanta - The Medicity",
+        "latitude": 28.4396,
+        "longitude": 77.0405,
+        "address": "Sector 38, Gurgaon, 122001, India",
+        "helpline": "+91 124 414 1414",
+        "picture": "./img/medanta.jpg",
+        "website": "https://www.medanta.org/"
+      },
+      {
+        "name": "Max Super Speciality Hospital, Saket",
+        "latitude": 28.5276,
+        "longitude": 77.2120,
+        "address": "1 2, Press Enclave Marg, Saket, New Delhi, Delhi 110017",
+        "helpline": "+91 11 2651 5050",
+        "picture": "./img/MAXHEALTH.NS-9e293f80.png",
+        "website": "https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket"
+      },
+      {
+        "name": "Rajiv Gandhi Cancer Institute",
+        "latitude": 28.716472,
+        "longitude": 77.110887,
+        "address": "Sector-5, Rohini, Delhi, 110085, India",
+        "helpline": "+91 11 2705 2055",
+        "picture": "./img/Rajiv.png",
+        "website": "https://www.rgcirc.org/"
+      },
+      {
+        "name": "Delhi Heart and Lung Institute",
+        "latitude": 28.6416,
+        "longitude": 77.2053,
+        "address": "B-17, Dev Nagar, Karol Bagh, Delhi, 110005, India",
+        "helpline": "+91 11 2573 3047",
+        "picture": "./img/dhli.jpg",
+        "website": "https://www.dhli.in/"
+      },
+      {
+        "name": "Indraprastha Apollo Hospital",
+        "latitude": 28.5425,
+        "longitude": 77.2828,
+        "address": "Indraprastha, NH-19, New Delhi, Delhi 110076",
+        "helpline": "+91 11 2692 5858",
+        "picture": "./img/Apollo.avif",
+        "website": "https://www.apollohospitals.com/delhi/indraprastha-apollo-hospitals/"
+      },
+      {
+        "name": "Metro Hospital & Cancer Institute",
+        "latitude": 28.6385,
+        "longitude": 77.2948,
+        "address": "Community Center, 21, C Block, Preet Vihar, Delhi, 110092",
+        "helpline": "+91 11 2508 2020",
+        "picture": "./img/metro.png",
+        "website": "https://www.metrohospitals.com/hospital/metro-hospital-and-cancer-institute-preet-vihar-delhi/"
+      },
+      {
+        "name": "Venkateshwar Hospital",
+        "latitude": 28.5886,
+        "longitude": 77.0380,
+        "address": "Sector 18, Dwarka, Delhi, 110075, India",
+        "helpline": "+91 11 4567 7777",
+        "picture": "./img/venkat.jpg",
+        "website": "https://www.venkateshwarhospitals.com/"
+      },
+      {
+        "name": "Aakash Healthcare",
+        "latitude": 28.6052,
+        "longitude": 77.0534,
+        "address": "Sector 3, Dwarka, Delhi, 110075, India",
+        "helpline": "+91 11 2537 1515",
+        "picture": "./img/Aakash.png",
+        "website": "https://aakashhealthcare.com/"
+      },
+      {
+        "name": "Garg Hospital",
+        "latitude": 28.6532,
+        "longitude": 77.2948,
+        "address": "8-9, opposite Karkardooma Court, Anand Vihar, New Delhi, Delhi 110092",
+        "helpline": "+91 11 2507 5222",
+        "picture": "./img/garg.png",
+        "website": "https://garghospital.co.in/"
+      },
+      {
+        "name": "Kailash Hospital",
+        "latitude": 28.4707,
+        "longitude": 77.5053,
+        "address": "Sector 27, Noida, 201301, India",
+        "helpline": "+91 120 242 1300",
+        "picture": "./img/kailash.jpg",
+        "website": "https://www.kailashhealthcare.com/Kailash-Hospital-Noida"
+      },
+      {
+        "name": "Marengo Asia Hospitals, Gurugram",
+        "latitude": 28.4183, 
+        "longitude": 77.0973,
+        "address": "Golf Course Ext Rd, Sushant Lok II, Sector 56, Gurugram, Ghata, Haryana 122011",
+        "helpline": "0124 413 1091",
+        "picture": "./img/marengo.png",
+        "website": "https://www.marengoasiahospitals.com/hospital/marengo-asia-hospitals-gurugram"
+      },
+      {
+        "name": "Saroj Super Speciality Hospital",
+        "latitude": 28.7059,
+        "longitude": 77.1289,
+        "address": "Sector -14 Extension, near Madhuban Chowk, Rohini, Delhi 110085",
+        "helpline": "+91 11 2362 2323",
+        "picture": "./img/saroj.jpg",
+        "website": "https://www.sarojhospital.com/saroj-speciality"
+      },
+      {
+        "name": "Shree Aggarsain International Hospital",
+        "latitude": 28.7185,
+        "longitude": 77.06498,
+        "address": "CH Bhim Singh Nambardar Marg, Sector 22, Delhi 110086",
+        "helpline": "+91 11 2757 3777",
+        "picture": "./img/aggarsain.png",
+        "website": "https://www.saih.in/"
+      },
+      {
+        "name": "Max Super Speciality Hospital, Shalimar bagh",
+        "latitude": 28.7277,
+        "longitude": 77.1527,
+        "address": "FC 50, Max Wali Rd, C and D Block, Shalimar Bagh, Delhi, 110088",
+        "helpline": "011 6642 2222",
+        "picture": "./img/MAXHEALTH.NS-9e293f80.png",
+        "website": "https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-shalimar-bagh"
+      }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "appointments": [
+      {
+        "name": "AIIMS Delhi",
+        "doctors": [
+          {
+            "name": "Dr. Alice Smith",
+            "speciality": "ENT",
+            "appointments": 120
+          },
+          {
+            "name": "Dr. Bob Johnson",
+            "speciality": "Dental",
+            "appointments": 95
+          }
+        ]
+      },
+      {
+        "name": "Fortis Hospital, Shalimar Bagh",
+        "doctors": [
+          {
+            "name": "Dr. Carol Davis",
+            "speciality": "Cardiology",
+            "appointments": 150
+          },
+          {
+            "name": "Dr. David Wilson",
+            "speciality": "Dental",
+            "appointments": 110
+          }
+        ]
+      },
+      {
+        "name": "Apollo Hospital",
+        "doctors": [
+          {
+            "name": "Dr. Emma Brown",
+            "speciality": "Cardiology",
+            "appointments": 75
+          },
+          {
+            "name": "Dr. Frank Moore",
+            "speciality": "Heartbreak",
+            "appointments": 85
+          }
+        ]
+      }
+    ]
+  }
+  

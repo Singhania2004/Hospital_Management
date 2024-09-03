@@ -1,0 +1,119 @@
+{
+    "Beds": [
+      {
+        "name": "AIIMS Delhi",
+        "Available Free Critical Bed (without ventilator)": "15",
+        "Available Free Critical Bed (with ventilator)": "8",
+        "Available Free Non-Critical Bed": "20"
+      },
+      {
+        "name": "Fortis Hospital, Shalimar Bagh",
+        "Available Free Critical Bed (without ventilator)": "22",
+        "Available Free Critical Bed (with ventilator)": "10",
+        "Available Free Non-Critical Bed": "18"
+      },
+      {
+        "name": "Apollo Hospital",
+        "Available Free Critical Bed (without ventilator)": "5",
+        "Available Free Critical Bed (with ventilator)": "12",
+        "Available Free Non-Critical Bed": "25"
+      },
+      {
+        "name": "Sir Ganga Ram Hospital",
+        "Available Free Critical Bed (without ventilator)": "14",
+        "Available Free Critical Bed (with ventilator)": "7",
+        "Available Free Non-Critical Bed": "16"
+      },
+      {
+        "name": "BLK Super Speciality Hospital",
+        "Available Free Critical Bed (without ventilator)": "18",
+        "Available Free Critical Bed (with ventilator)": "9",
+        "Available Free Non-Critical Bed": "30"
+      },
+      {
+        "name": "Medanta - The Medicity",
+        "Available Free Critical Bed (without ventilator)": "11",
+        "Available Free Critical Bed (with ventilator)": "15",
+        "Available Free Non-Critical Bed": "22"
+      },
+      {
+        "name": "Max Super Speciality Hospital, Saket",
+        "Available Free Critical Bed (without ventilator)": "8",
+        "Available Free Critical Bed (with ventilator)": "20",
+        "Available Free Non-Critical Bed": "12"
+      },
+      {
+        "name": "Rajiv Gandhi Cancer Institute",
+        "Available Free Critical Bed (without ventilator)": "20",
+        "Available Free Critical Bed (with ventilator)": "5",
+        "Available Free Non-Critical Bed": "14"
+      },
+      {
+        "name": "Delhi Heart and Lung Institute",
+        "Available Free Critical Bed (without ventilator)": "10",
+        "Available Free Critical Bed (with ventilator)": "13",
+        "Available Free Non-Critical Bed": "17"
+      },
+      {
+        "name": "Indraprastha Apollo Hospital",
+        "Available Free Critical Bed (without ventilator)": "13",
+        "Available Free Critical Bed (with ventilator)": "11",
+        "Available Free Non-Critical Bed": "21"
+      },
+      {
+        "name": "Metro Hospital & Cancer Institute",
+        "Available Free Critical Bed (without ventilator)": "16",
+        "Available Free Critical Bed (with ventilator)": "8",
+        "Available Free Non-Critical Bed": "19"
+      },
+      {
+        "name": "Venkateshwar Hospital",
+        "Available Free Critical Bed (without ventilator)": "12",
+        "Available Free Critical Bed (with ventilator)": "17",
+        "Available Free Non-Critical Bed": "23"
+      },
+      {
+        "name": "Aakash Healthcare",
+        "Available Free Critical Bed (without ventilator)": "7",
+        "Available Free Critical Bed (with ventilator)": "22",
+        "Available Free Non-Critical Bed": "15"
+      },
+      {
+        "name": "Garg Hospital",
+        "Available Free Critical Bed (without ventilator)": "19",
+        "Available Free Critical Bed (with ventilator)": "14",
+        "Available Free Non-Critical Bed": "10"
+      },
+      {
+        "name": "Kailash Hospital",
+        "Available Free Critical Bed (without ventilator)": "21",
+        "Available Free Critical Bed (with ventilator)": "6",
+        "Available Free Non-Critical Bed": "26"
+      },
+      {
+        "name": "Marengo Asia Hospitals, Gurugram",
+        "Available Free Critical Bed (without ventilator)": "9",
+        "Available Free Critical Bed (with ventilator)": "19",
+        "Available Free Non-Critical Bed": "13"
+      },
+      {
+        "name": "Saroj Super Speciality Hospital",
+        "Available Free Critical Bed (without ventilator)": "17",
+        "Available Free Critical Bed (with ventilator)": "12",
+        "Available Free Non-Critical Bed": "28"
+      },
+      {
+        "name": "Shree Aggarsain International Hospital",
+        "Available Free Critical Bed (without ventilator)": "14",
+        "Available Free Critical Bed (with ventilator)": "18",
+        "Available Free Non-Critical Bed": "22"
+      },
+      {
+        "name": "Max Super Speciality Hospital, Shalimar bagh",
+        "Available Free Critical Bed (without ventilator)": "11",
+        "Available Free Critical Bed (with ventilator)": "10",
+        "Available Free Non-Critical Bed": "20"
+      }
+    ]
+  }
+  
