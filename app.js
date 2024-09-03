@@ -51,7 +51,7 @@ function createHospitalCards(hospitals, appointments) {
                 <div class="hospital-details">
                     <div class="hospital-address">${hospital.address}</div>
                     <div class="hospital-website"><a href="${hospital.website}" target="_blank">${hospital.website}</a></div>
-                    <div class="hospital-helpline"><img src="call.svg" alt="Call" class="call-icon">: ${hospital.helpline}</div>
+                    <div class="hospital-helpline"><img src="Call.svg" alt="Call" class="call-icon">: ${hospital.helpline}</div>
                 </div>
             </div>
             <div class="available-beds-toggle">Available Beds</div>
